@@ -1,0 +1,3 @@
+## Index of source code examples:
+
+\Extract Text From Coordinates from PDF with PDF Extractor SDK
